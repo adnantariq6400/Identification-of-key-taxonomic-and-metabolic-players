@@ -54,7 +54,7 @@ This repository presents a comprehensive bioinformatics analysis of gut metageno
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/Identification-of-key-taxonomic-and-metabolic-players-in-the-gut-metagenome-of-T2D-Patients.git
-   cd Identification-of-key-taxonomic-and-metabolic-players-in-the-gut-metagenome-of-T2D-Patients
+   cd Identification-of-key-taxonomic-and-metabolic-players
    ```
 
 2. Ensure required tools are installed:  
