@@ -32,7 +32,7 @@ This repository presents a comprehensive bioinformatics analysis of gut metageno
   - **HALLA:** Mutual information-based association analysis  
   - **MaAsLin2:** Linear model-based multivariate association testing
 
-> Ready to apply this analysis to your own data? All the necessary code and scripts to replicate these steps are available in the [**scripts**](./scripts/) folder of this repository.
+> Ready to apply this analysis to your own data? All the necessary code and scripts to replicate these steps are available in the [**Scripts**](./Scripts/) folder of this repository.
 
 ---
 
@@ -44,7 +44,7 @@ This repository presents a comprehensive bioinformatics analysis of gut metageno
 - ML models (e.g., XGBoost, Random Forest) achieved high accuracy in predicting drug response based on microbiome profiles.
 - HALLA and MaAsLin2 revealed associations between specific microbes and clinical markers (GLP-1, BMI, etc.)
 
-> Full visualizations and detailed results are available in the [**results**](./results/) and [**images**](./images/) directories.
+> Full visualizations and detailed results are available in the [**Results**](./Results/) and [**Output_Graphs**](./Output_Graphs/) directories.
 
 ---
 
