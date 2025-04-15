@@ -45,7 +45,7 @@ This repository presents a comprehensive bioinformatics analysis of gut metageno
 - ML models (e.g., XGBoost, Random Forest) achieved high accuracy in predicting drug response based on microbiome profiles.
 - HALLA and MaAsLin2 revealed associations between specific microbes and clinical markers (GLP-1, BMI, etc.)
 
-> Full visualizations and detailed results are available in the `results/` and `images/` directories.
+> Full visualizations and detailed results are available in the [**results**](./results/) and [**images**](./images/) directories.
 
 ---
 
