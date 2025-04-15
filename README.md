@@ -1,6 +1,5 @@
 # Identification-of-key-taxonomic-and-metabolic-players-in-the-gut-metagenome-of-T2D-Patients
 Metagenome Project
-# Identification of Key Taxonomic and Metabolic Players in the Gut Metagenome of T2D Patients
 
 This project aims to identify significant microbial taxa and metabolic functions associated with Type 2 Diabetes (T2D) using metagenomic data. Through computational analysis of gut microbiome samples, we explore microbial composition and functional signatures to uncover key players involved in host-microbiome interactions related to T2D.
 
