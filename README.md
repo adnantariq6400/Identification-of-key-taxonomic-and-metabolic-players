@@ -1,4 +1,3 @@
-#Metagenome Project
 # Identification of Key Taxonomic and Metabolic Players in the Gut Metagenome of T2D Patients
 
 This repository presents a comprehensive bioinformatics analysis of gut metagenomic data from Chinese Type 2 Diabetes (T2D) patients. The study investigates microbial taxonomic composition, functional potential, gene/protein annotations (including CAZyme families), and applies machine learning to associate microbial patterns with clinical metadata.
