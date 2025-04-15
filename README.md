@@ -1,4 +1,3 @@
-# Identification-of-key-taxonomic-and-metabolic-players-in-the-gut-metagenome-of-T2D-Patients
 #Metagenome Project
 # Identification of Key Taxonomic and Metabolic Players in the Gut Metagenome of T2D Patients
 
@@ -20,7 +19,7 @@ This repository presents a comprehensive bioinformatics analysis of gut metageno
 
 ## 🧬 Materials and Methods
 
-- **Data Acquisition:** Retrieved from NCBI BioProject PRJNA826552 (Zhang et al., 2022).
+- **Data Acquisition:** Retrieved from NCBI BioProject.
 - **Preprocessing:** Quality control (FastQC, fastp), host read removal (BBDuk).
 - **Assembly:** De novo assembly using metaSPAdes via KBase.
 - **Taxonomic Profiling:** MetaPhlAn v4 with Bowtie2.
