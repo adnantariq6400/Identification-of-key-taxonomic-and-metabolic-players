@@ -33,6 +33,8 @@ This repository presents a comprehensive bioinformatics analysis of gut metageno
   - **HALLA:** Mutual information-based association analysis  
   - **MaAsLin2:** Linear model-based multivariate association testing
 
+> Ready to apply this analysis to your own data? All the necessary code and scripts to replicate these steps are available in the [**scripts**](./scripts/) folder of this repository.
+
 ---
 
 ## 📈 Results and Discussion (Highlights)
