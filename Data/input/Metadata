@@ -1,1 +1,12 @@
+## Metadata File
+
+The metadata file contains sample-level information and potential confounders used for analysis.
+
+**File path:** [Data/input/Metadata_info.xlsx](Data/input/Metadata_info.xlsx)
+
+**Description:**
+- SampleID: Unique identifier for each sample
+- Age, Gender, BMI, Responds: Participant characteristics
+- Time Points: Before and After the Treatment
+- Drugs used: Acarbose and Vildagliptin
 
