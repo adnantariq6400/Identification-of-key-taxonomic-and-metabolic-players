@@ -1,3 +1,15 @@
 **File:** `metadata.csv`
 
 This file contains information about all samples used in the study, including demographic variables and experimental confounders.
+**File location:**
+`input/metadata.csv`
+
+Columns include:
+- SampleID
+- Age
+- Gender
+- BMI
+- DiabeticStatus
+- Drug Respond
+- Timepoints
+- Drugs
