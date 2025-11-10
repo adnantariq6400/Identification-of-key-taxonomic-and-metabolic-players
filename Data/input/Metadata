@@ -2,7 +2,8 @@
 
 This file contains information about all samples used in the study, including demographic variables and experimental confounders.
 **File location:**
-`input/metadata.csv`
+The metadata file can be found at:
+[Data/input/Metadata_info.xlsx](Data/input/Metadata_info.xlsx) 
 
 Columns include:
 - SampleID
